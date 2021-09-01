@@ -1,0 +1,9 @@
+[29-Jun-2018 08:32:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/movix/public_html/wp-content/themes/PsyPlay/index.php on line 1
+[29-Jun-2018 08:35:25 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/movix/public_html/wp-content/themes/PsyPlay/index.php on line 1
+[29-Jun-2018 08:51:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/movix/public_html/wp-content/themes/PsyPlay/index.php on line 1
+[26-Jul-2019 01:10:52 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/movix/public_html/wp-content/themes/PsyPlay/index.php on line 1
+[11-Aug-2019 14:19:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/movix/public_html/wp-content/themes/PsyPlay/index.php on line 1
+[22-Aug-2019 16:01:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/movix/public_html/wp-content/themes/PsyPlay/index.php on line 1
+[04-Sep-2019 19:34:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/movix/public_html/wp-content/themes/PsyPlay/index.php on line 1
+[28-Sep-2019 10:31:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/movix/public_html/wp-content/themes/PsyPlay/index.php on line 1
+[06-Oct-2019 14:27:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/movix/public_html/wp-content/themes/PsyPlay/index.php on line 1

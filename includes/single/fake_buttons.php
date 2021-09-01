@@ -1,0 +1,4 @@
+<?php $active = get_option('fake-buttons'); if ($active == "true") { ?>
+<a href="<?php if ($note = get_option('ads-button-1-url') ) { echo $note; } else { echo '#' ;} ?>" target="_blank" class="btn btn-block btn-lg btn-successful btn-01"><i class="fa fa-play mr10"></i><?php if ($note = get_option('ads-button-1-title') ) { echo $note; } else { echo 'Stream in HD' ;} ?></a>
+<a href="<?php if ($note = get_option('ads-button-2-url') ) { echo $note; } else { echo '#' ;} ?>" target="_blank" class="btn btn-block btn-lg btn-successful btn-02"><i class="fa fa-download mr10"></i><?php if ($note = get_option('ads-button-2-title') ) { echo $note; } else { echo 'Download in HD' ;} ?></a>
+<?php }?>
